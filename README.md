@@ -18,7 +18,7 @@ I'm a final-year Computer Science student passionate about building secure and s
 
 Here are some of my featured projects:
 
-- 🎙️ [**Python Voice Assistant**](https://github.com/amandeep-2004/your-voice-assistant-repo)  
+- 🎙️ [**Python Voice Assistant**](https://github.com/amandeep-2004/Voice-Assistant--Jarvis)  
   Modular voice assistant built with Python, supporting real-time commands and API integration.
 
 - 🛡️ [**Lightweight Anti-Cheat PoC**](https://github.com/amandeep-2004/lightweight-anti-cheat-poc)  
