@@ -22,10 +22,12 @@ Here are some of my featured projects:
   
   Modular voice assistant built with Python, supporting real-time commands and API integration.
 
-- 🛡️ [**Lightweight Anti-Cheat PoC**](https://github.com/amandeep-2004/lightweight-anti-cheat-poc)  
+- 🛡️ [**Lightweight Anti-Cheat PoC**](https://github.com/amandeep-2004/lightweight-anti-cheat-poc)
+  
   Proof-of-concept anti-cheat engine using memory scanning and process monitoring.
 
 - 🌐 [**Pentest-Pro**](https://github.com/amandeep-2004/Pentest-Pro) (Group project)
+  
   Real-time network threat detection system using Python and socket programming.
 
 ---
