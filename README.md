@@ -25,7 +25,7 @@ Here are some of my featured projects:
 - 🛡️ [**Lightweight Anti-Cheat PoC**](https://github.com/amandeep-2004/lightweight-anti-cheat-poc)  
   Proof-of-concept anti-cheat engine using memory scanning and process monitoring.
 
-- 🌐 [**Pentest-Pro**](https://github.com/amandeep-2004/Pentest-Pro)  
+- 🌐 [**Pentest-Pro**](https://github.com/amandeep-2004/Pentest-Pro) (Group project)
   Real-time network threat detection system using Python and socket programming.
 
 ---
